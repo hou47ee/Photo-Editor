@@ -25,7 +25,7 @@
 <img src="photo/pic.jpg" alt="Cover" width="50%"/> <br>
 
 - Reset: 回復原狀<br>
+<img src="photo/original.jpg" alt="Cover" width="50%"/> <br>
 
-
-- Save Photo: 儲存圖片
+- Save Photo: 儲存圖片<br>
 <img src="photo/save1.PNG" alt="Cover" width="50%"/> <br>
