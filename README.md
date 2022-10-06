@@ -22,7 +22,7 @@
 <img src="photo/blur.jpg" alt="Cover" width="50%"/> <br>
 
 - ToPicture : 圖畫化<br>
-<img src="photo/input.PNG" alt="Cover" width="50%"/> <br>
+<img src="photo/pic.jpg" alt="Cover" width="50%"/> <br>
 
 - Reset: 回復原狀<br>
 
